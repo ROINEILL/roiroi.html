@@ -1,0 +1,10 @@
+body {
+    background-image: url(./ocean.jpg);
+    background-size:cover;
+}
+
+h1 {
+    font-family: "Bree serif", cursive;
+    font-size: 7rem;
+    
+}
